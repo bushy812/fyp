@@ -16,3 +16,6 @@ of a github plugin.
 
 
 .
+This to do:
+
+1-Change the entire panel from the website to a simple diagram .
